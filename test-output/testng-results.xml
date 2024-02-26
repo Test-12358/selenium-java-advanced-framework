@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53647" started-at="2024-02-26T07:07:34Z" finished-at="2024-02-26T07:08:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="53647" started-at="2024-02-26T07:07:34Z" finished-at="2024-02-26T07:08:27Z">
+      <class name="com.letsKodeit.overview.AllcoursesTest">
+        <test-method status="PASS" signature="commonSetUp(java.lang.String)[pri:0, instance:com.letsKodeit.overview.AllcoursesTest@210ab13f]" name="commonSetUp" is-config="true" duration-ms="15423" started-at="2024-02-26T07:07:34Z" finished-at="2024-02-26T07:07:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonSetUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.letsKodeit.overview.AllcoursesTest@210ab13f]" name="setUp" is-config="true" duration-ms="1673" started-at="2024-02-26T07:07:49Z" finished-at="2024-02-26T07:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="methodSetup()[pri:0, instance:com.letsKodeit.overview.AllcoursesTest@210ab13f]" name="methodSetup" is-config="true" duration-ms="4" started-at="2024-02-26T07:07:51Z" finished-at="2024-02-26T07:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetup -->
+        <test-method status="PASS" signature="filterByCategory()[pri:0, instance:com.letsKodeit.overview.AllcoursesTest@210ab13f]" name="filterByCategory" duration-ms="13480" started-at="2024-02-26T07:07:51Z" finished-at="2024-02-26T07:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterByCategory -->
+        <test-method status="PASS" signature="verifySearchCourse(java.lang.String)[pri:0, instance:com.letsKodeit.overview.AllcoursesTest@210ab13f]" name="verifySearchCourse" duration-ms="2606" started-at="2024-02-26T07:08:04Z" data-provider="verifySearchCourseData" finished-at="2024-02-26T07:08:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rest api]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchCourse -->
+        <test-method status="PASS" signature="methodSetup()[pri:0, instance:com.letsKodeit.overview.AllcoursesTest@210ab13f]" name="methodSetup" is-config="true" duration-ms="0" started-at="2024-02-26T07:08:04Z" finished-at="2024-02-26T07:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetup -->
+        <test-method status="PASS" signature="methodSetup()[pri:0, instance:com.letsKodeit.overview.AllcoursesTest@210ab13f]" name="methodSetup" is-config="true" duration-ms="0" started-at="2024-02-26T07:08:07Z" finished-at="2024-02-26T07:08:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetup -->
+        <test-method status="PASS" signature="verifySearchCourse(java.lang.String)[pri:0, instance:com.letsKodeit.overview.AllcoursesTest@210ab13f]" name="verifySearchCourse" duration-ms="2238" started-at="2024-02-26T07:08:07Z" data-provider="verifySearchCourseData" finished-at="2024-02-26T07:08:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[javascript]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchCourse -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.letsKodeit.overview.AllcoursesTest@210ab13f]" name="tearDown" is-config="true" duration-ms="936" started-at="2024-02-26T07:08:09Z" finished-at="2024-02-26T07:08:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="commonTearDown()[pri:0, instance:com.letsKodeit.overview.AllcoursesTest@210ab13f]" name="commonTearDown" is-config="true" duration-ms="1" started-at="2024-02-26T07:08:10Z" finished-at="2024-02-26T07:08:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonTearDown -->
+      </class> <!-- com.letsKodeit.overview.AllcoursesTest -->
+      <class name="com.letsKodeit.overview.LoginTests">
+        <test-method status="PASS" signature="commonSetUp(java.lang.String)[pri:0, instance:com.letsKodeit.overview.LoginTests@20b2475a]" name="commonSetUp" is-config="true" duration-ms="7524" started-at="2024-02-26T07:08:10Z" finished-at="2024-02-26T07:08:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonSetUp -->
+        <test-method status="PASS" signature="methodSetup()[pri:0, instance:com.letsKodeit.overview.LoginTests@20b2475a]" name="methodSetup" is-config="true" duration-ms="1" started-at="2024-02-26T07:08:18Z" finished-at="2024-02-26T07:08:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetup -->
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:com.letsKodeit.overview.LoginTests@20b2475a]" name="testlogin" duration-ms="5672" started-at="2024-02-26T07:08:18Z" finished-at="2024-02-26T07:08:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.letsKodeit.overview.LoginTests@20b2475a]" name="afterMethod" is-config="true" duration-ms="3078" started-at="2024-02-26T07:08:23Z" finished-at="2024-02-26T07:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="commonTearDown()[pri:0, instance:com.letsKodeit.overview.LoginTests@20b2475a]" name="commonTearDown" is-config="true" duration-ms="923" started-at="2024-02-26T07:08:27Z" finished-at="2024-02-26T07:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonTearDown -->
+      </class> <!-- com.letsKodeit.overview.LoginTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
